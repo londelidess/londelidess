@@ -73,8 +73,9 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=londelidess
-&theme=dark&background=000000)(https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=londelidess
+&theme=dark&background=000000)](https://git.io/streak-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=londelidess)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 
