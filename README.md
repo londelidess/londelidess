@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Makoto Doi grew up in Japan and have been in California since 2020<br><br>- 🔭 I’m working as a Full-Stack JS/Python Developer and started my coding journey in 2023.<br>- 📚 I'm currently learning TypeScript.<br>- ⚡ My hobbies include playing tennis and traveling to new places. So far, New Zealand is my favorite. My profile picture is from New Zealand.<br>- 🌴 Since moving to California in 2020, I've been struck by how friendly and approachable people are. It was a bit of a culture shock for me, but a pleasant one. I enjoy hiking and meeting new people on the weekends.<br>- 💪 One of my proudest moments as a developer was implementing a checkout feature for a project. I created 'shopping_cart,' 'transaction,' and 'transaction_item' tables to make my endpoint route work."</p>
+<p align="left">I'm Makoto Doi grew up in Japan and have been in California since 2020.<br><br>- 🔭 I’m working as a Full-Stack JS/Python Developer and started my coding journey in 2023.<br>- 📚 I'm currently learning TypeScript.<br>- ⚡ My hobbies include playing tennis and traveling to new places. So far, New Zealand is my favorite. My profile picture is from New Zealand.<br>- 🌴 Since moving to California in 2020, I've been struck by how friendly and approachable people are. It was a bit of a culture shock for me, but a pleasant one. I enjoy hiking and meeting new people on the weekends.<br>- 💪 One of my proudest moments as a developer was implementing a checkout feature for a project. I created 'shopping_cart,' 'transaction,' and 'transaction_item' tables to make my endpoint route work."</p>
 
 ###
 
@@ -73,7 +73,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=londelidess&theme=dark&background=000000)](https://git.io/streak-stats)
 ###
 <!--
 **londelidess/londelidess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
