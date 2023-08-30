@@ -73,9 +73,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=londelidess
-&theme=dark&background=000000)](https://git.io/streak-stats)
-[![github stats](https://github-readme-stats.vercel.app/api?username=londelidess)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=londelidess&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=londelidess&langs_count=5&theme=tokyonight)]()
+
+
 ###
 
 
