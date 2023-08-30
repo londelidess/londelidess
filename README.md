@@ -74,7 +74,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=londelidess&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=londelidess&langs_count=5&theme=tokyonight)]()
 
 
@@ -94,4 +94,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=londelidess&count_private=true&theme=tokyonight&showicons=true)]()
 -->
