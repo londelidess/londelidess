@@ -18,7 +18,7 @@
 
 ###
 <div align="center" style="width: 435px;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F78900&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Konnichiwa!%F0%9F%A5%B7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F78900&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Konnichiwa!%F0%9F%A5%B7" alt="Typing SVG" /></a>
 </div>
 
 ###
@@ -26,7 +26,6 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F78900&background=FFFFFF00&vCenter=true&multiline=true&width=435&lines=Konnichiwa!%F0%9F%A5%B7" alt="Typing SVG" /></a>
 <p align="left">I'm Makoto Doi grew up in Japan and have been in California since 2020.<br><br>- 🔭 I’m working as a Full-Stack JS/Python Developer and started my coding journey in 2023.<br>- 📚 I'm currently learning TypeScript.<br>- ⚡ My hobbies include playing tennis and traveling to new places. So far, New Zealand is my favorite. My profile picture is from New Zealand.<br>- 🌴 Since moving to California in 2020, I've been struck by how friendly and approachable people are. It was a bit of a culture shock for me, but a pleasant one. I enjoy hiking and meeting new people on the weekends.<br>- 💪 One of my proudest moments as a developer was implementing a checkout feature for a project. I created 'shopping_cart,' 'transaction,' and 'transaction_item' tables to make my endpoint route work."</p>
 
 ###
