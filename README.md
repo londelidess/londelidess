@@ -17,7 +17,7 @@
 </div>
 
 ###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F78900&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Konnichiwa!%F0%9F%A5%B7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F78900&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Konnichiwa!%F0%9F%A5%B7" alt="Typing SVG" align="center" /></a>
 <h1 align="center">Konnichiwa! 🥷</h1>
 
 ###
