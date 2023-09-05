@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">man_technologist  About Me</h3>
+<h3 align="left">👨‍💻  About Me</h3>
 
 ###
 <p align="left">I'm Makoto Doi grew up in Japan and have been in California since 2020.<br>
